@@ -70,7 +70,7 @@ const links = [
 		),
 	},
 	{
-		label: 'Recipes',
+		label: 'Recetas',
 		href: '/recipes',
 		icon: (
 			<svg
