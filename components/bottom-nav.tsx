@@ -52,7 +52,7 @@ const links = [
 		),
 	},
 	{
-		label: 'Story',
+		label: 'El hidromiel',
 		href: '/story',
 		icon: (
 			<svg
