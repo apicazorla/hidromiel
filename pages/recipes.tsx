@@ -4,8 +4,9 @@ import Section from '@/components/section'
 const Recipes = () => (
 	<Page>
 		<Section>
-			<h2 className='text-xl font-semibold'>Ingredients</h2>
+			<h3 className='text-xl font-semibold'>Hidromiel de manzana</h3>
 
+			
 			<div className='mt-2'>
 				<p className='text-zinc-600 dark:text-zinc-400'>
 					Like any good recipe, we appreciate community offerings to cultivate a
@@ -13,6 +14,7 @@ const Recipes = () => (
 				</p>
 			</div>
 		</Section>
+
 
 		<Section>
 			<h3 className='font-medium'>Thanks to</h3>
