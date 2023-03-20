@@ -21,7 +21,7 @@ const Recipes = () => (
 
 			<ul className='list-disc space-y-2 px-6 py-2'>
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-					<a href='https://drive.google.com/uc?export=view&id=1DaJeWAtOPrVDWz_Xk0LMXS5TrQDKYnYP" width="200"' className='underline'>
+					<a img src='https://drive.google.com/uc?export=view&id=1DaJeWAtOPrVDWz_Xk0LMXS5TrQDKYnYP" width="200"' className='underline'>
 						Receta en pdf
 					</a>{' '}
 					for high quality images
