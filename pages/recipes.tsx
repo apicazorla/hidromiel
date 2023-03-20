@@ -22,16 +22,8 @@ const Recipes = () => (
 			<ul className='list-disc space-y-2 px-6 py-2'>
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
 					<a href='https://unsplash.com' className='underline'>
-						Unsplash
-					</a>{' '}
-					for high quality images
-				</li>
-
-				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-					<a href='https://teenyicons.com' className='underline'>
-						Teenyicons
-					</a>{' '}
-					for lovely icons
+						Receta en pdf
+					</a>
 				</li>
 			</ul>
 		</Section>
