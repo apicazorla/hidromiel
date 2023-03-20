@@ -21,7 +21,15 @@ const Recipes = () => (
 
 			<ul className='list-disc space-y-2 px-6 py-2'>
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-				<a source="../public/hidromiel_de_manzana.pdf">Descarga el PDF</a>
+				<div>
+  <ScrollLink to="mywork" smooth={true}>
+    <button className={`btn`}>
+      <a href={pdf} target="_blank" rel="noopener noreferrer" download="hidromiel_de_manzana.pdf"> 
+      Click here for my pdf 
+      </a>
+    </button>
+  </ScrollLink>
+</div>
 				</li>
 
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
