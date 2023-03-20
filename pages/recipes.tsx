@@ -9,8 +9,8 @@ const Recipes = () => (
 			
 			<div className='mt-2'>
 				<p className='text-zinc-600 dark:text-zinc-400'>
-					Like any good recipe, we appreciate community offerings to cultivate a
-					delicous dish.
+					Hidromiel de manzana semidulce de un grado alcohólico del 8% a partir de zumo de manzana a partir de concentrado 
+					y miel de romero. Estabilizada y endulzada con miel de romero. Levadura Lalvin 47.
 				</p>
 			</div>
 		</Section>
