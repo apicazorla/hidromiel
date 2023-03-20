@@ -21,10 +21,7 @@ const Recipes = () => (
 
 			<ul className='list-disc space-y-2 px-6 py-2'>
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-					<a  href = "public/hidromiel_de_manzana.pdf" target = "_blank">HyperLink; className='underline'
-						Receta en pdf
-					</a>{' '}
-					for high quality images
+				<a href="../public/hidromiel_de_manzanaf.pdf">Descarga el pdf</a>
 				</li>
 
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
