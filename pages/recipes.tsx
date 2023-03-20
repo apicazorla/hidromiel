@@ -9,7 +9,7 @@ const Recipes = () => (
 			
 			<div className='mt-2'>
 				<p className='text-zinc-600 dark:text-zinc-400'>
-					Hidromiel de manzana semidulce de un grado alcohólico del 8% a partir de zumo de manzana a partir de concentrado 
+					Hidromiel de manzana semidulce de un grado alcohólico del 8% a partir de zumo de manzana procedente de concentrado 
 					y miel de romero. Estabilizada y endulzada con miel de romero. Levadura Lalvin 47.
 				</p>
 			</div>
@@ -21,7 +21,7 @@ const Recipes = () => (
 
 			<ul className='list-disc space-y-2 px-6 py-2'>
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-					<a href='https://drive.google.com/uc?export=view&id=1DaJeWAtOPrVDWz_Xk0LMXS5TrQDKYnYP" width="200"' className='underline'>
+					<a import documentPdf from './public/hidromiel_de_manzana.pdf'; className='underline'>
 						Receta en pdf
 					</a>{' '}
 					for high quality images
