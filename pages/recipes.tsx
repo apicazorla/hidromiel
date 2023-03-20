@@ -21,9 +21,17 @@ const Recipes = () => (
 
 			<ul className='list-disc space-y-2 px-6 py-2'>
 				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-					<a href='https://unsplash.com' className='underline'>
+					<a href='https://drive.google.com/uc?export=view&id=1DaJeWAtOPrVDWz_Xk0LMXS5TrQDKYnYP" width="200"' className='underline'>
 						Receta en pdf
-					</a>
+					</a>{' '}
+					for high quality images
+				</li>
+
+				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
+					<a href='https://teenyicons.com' className='underline'>
+						Teenyicons
+					</a>{' '}
+					for lovely icons
 				</li>
 			</ul>
 		</Section>
