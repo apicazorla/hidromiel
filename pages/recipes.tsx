@@ -22,13 +22,6 @@ const Recipes = () => (
 				<a href="hidromiel_de_manzana.pdf" className= 'underline'download>Clic para Descarga!</a>
 </div>
 				</li>
-
-				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
-					<a href='https://teenyicons.com' className='underline'>
-						Teenyicons
-					</a>{' '}
-					for lovely icons
-				</li>
 			</ul>
 		</Section>
 	</Page>
