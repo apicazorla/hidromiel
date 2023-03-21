@@ -14,7 +14,11 @@ const Recipes = () => (
 				</p>
 			</div>
 		</Section>
+ <Section>
+<h4 className='text-sm text-zinc-600 dark:text-zinc-400'
+ href="hidromiel_de_manzana.pdf" className= 'underline'download>Clic para Descarga! </h4>
 
+ </Section>
 
 		<Section>
 			<h3 className='font-medium'>Thanks to</h3>
