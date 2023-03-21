@@ -24,6 +24,31 @@ const Recipes = () => (
 				</li>
 			</ul>
 		</Section>
+
+		<Section>
+			<h3 className='text-xl font-semibold'>Buckland mead</h3>
+
+			
+			<div className='mt-2'>
+				<p className='text-zinc-600 dark:text-zinc-400'>
+					Hidromiel seca de un grado alcohólico del 4,5% a partir de miel de romero.  En la secundaria se 
+					añade rooibos y zumo de limón. Estabilizado. Levadura Lalvin D47.
+				</p>
+			</div>
+		</Section>
+
+		<Section>
+			<ul className='list-disc space-y-2 px-6 py-2'>
+				<li className='text-sm text-zinc-600 dark:text-zinc-400'>
+				<div>
+				<a href="hidromiel_de_manzana.pdf" className= 'underline'download>Clic para Descarga!</a>
+</div>
+				</li>
+			</ul>
+		</Section>
+
+
+
 	</Page>
 )
 
