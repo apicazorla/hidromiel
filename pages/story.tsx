@@ -36,7 +36,7 @@ const Story = () => (
                   <ul>
 					<li>
 						Agua
-
+						 <br>
 						Se debe utilizar agua envasada pues el agua del grifo contiene cloro y cloraminas.
 					</li>
 					<li>
