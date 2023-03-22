@@ -57,7 +57,19 @@ const Story = () => (
 						Nutrientes
 						</span>{' '}	
 						<br/>
-					    Los nutrientes favorecen la obtención de un hidromiel de forma rápida con las características buscadas.
+					    Los nutrientes favorecen la obtención de un hidromiel de forma rápida con las características buscadas. Son distintos según sea la levadura sólida o 
+						líquida. Incluimos los nutrientes añadidos en la rehidratación de la la levadura sólida, los nutrientes añadidos para la multiplicación de las levaduras y el amortiguador del 
+						pH.
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Levaduras
+						</span>{' '}	
+						<br/>
+					    La levadura es un ingrediente fundamental y varía según el hidromiel buscado: grado alcohólico ( cada tipo levadura tiene un límite máximo de graduación alcohólica que 
+						puede conseguir), sabor (que depende las sustancias producidas en el proceso de doermentación ), temperatura de fermentación (rango de temperatura en el que el proceso de 
+						fermentación se lleva a cabo), etc. 
+						pH.
 					</li>
 				  </ul>
 
