@@ -32,7 +32,14 @@ const Story = () => (
 					 dependiendo de si el hidromiel está estabilizado o no. Si no está estabilizado, puede en ciertos casos, como que no se haya alcanzado la gravedad esperada o que se le añada 
 					 un azúcar de cebado para gasificarla, que se reactive la fermentación y los gases producidos puede hacer que exploten las botellas a menos que  sea resitente y el tapón sea el adecuado.
 				
-                  
+                  <ul>
+					<li>
+						a
+					</li>
+					<li>
+						b
+					</li>
+				  </ul>
 
 
 				  
