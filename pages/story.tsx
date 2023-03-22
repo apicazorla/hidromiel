@@ -45,6 +45,7 @@ const Story = () => (
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
 						Miel 
+						</span>{' '}	
                          <br/>
 						Se debe de utilizar miel cruda, que es la que no está calentada por encima de los 40-45ºC pues la pasteurizada ha perdido ciertos aromas que ya no van 
 						a estar presentes en el hidromiel. Así que hay que abandonar técnicas que supongan un calentamiento excesivo de la miel en la que se busca a eliminación de levaduras
@@ -54,6 +55,7 @@ const Story = () => (
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
 						Nutrientes
+						</span>{' '}	
 						<br/>
 					    Los nutrientes favorecen la obtención de un hidromiel de forma rápida con las características buscadas.
 					</li>
