@@ -35,14 +35,14 @@ const Story = () => (
 					 Los ingredientes del hidromiel básico son: agua, miel, nutrientes y levadura. 
                   <ul>
 					<li>
-						Agua
-						\n
+						</b> Agua
+					<br/>
 						Se debe utilizar agua envasada pues el agua del grifo contiene cloro y cloraminas.
 						
 					</li>
 					<li>
 						Miel 
-                         \n
+                         <br/>>
 						Se debe de utilizar miel cruda, que es la que no está calentada por encima de los 40-45ºC pues la pasteurizada ha perdido ciertos aromas que ya no van 
 						a estar presentes en el hidromiel. Así que hay que abandonar técnicas que supongan un calentamiento excesivo de la miel en la que se busca a eliminación de levaduras
 						salvajes y una mejor clarificación final de la hidromiel. No se debe utilizar miel de más de dos años aunque puede estar líquida o cristalizada y que no haya empezado a 
@@ -50,7 +50,7 @@ const Story = () => (
 					</li>
 					<li>
 						Nutrientes
-						\n
+						<br/>>
 					    Los nutrientes favorecen la obtención de un hidromiel de forma rápida con las características buscadas.
 					</li>
 				  </ul>
