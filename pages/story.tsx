@@ -69,11 +69,32 @@ const Story = () => (
 					    La levadura es un ingrediente fundamental y varía según el hidromiel buscado: grado alcohólico ( cada tipo levadura tiene un límite máximo de graduación alcohólica que 
 						puede conseguir), sabor (que depende las sustancias producidas en el proceso de doermentación ), temperatura de fermentación (rango de temperatura en el que el proceso de 
 						fermentación se lleva a cabo), etc. 
-						pH.
+		
 					</li>
 				  </ul>
 
-
+				  <h2 className='text-xl font-semibold'>Higiene en el proceso de la obtención del hidromiel</h2>
+					 Es muy importante que todo lo que esté en contacto con el mosto o el hidromiel esté libre de bacterias, levaduras, etc. ajenas al proceso de fermentación. Por 
+					 ello se debe desinfectarse. 
+                  <ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Lavado y enguague
+					</span>{' '}
+					<br/>
+						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Enguague con el desinfectante
+						</span>{' '}	
+                         <br/>
+						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
+						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
+					</li>
+					
+				  </ul>
 				  
                   
 				</p>
