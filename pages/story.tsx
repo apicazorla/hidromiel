@@ -31,13 +31,23 @@ const Story = () => (
 					 durante un tiempo. Antes de clarificar podemos estabilizar el hidromiel y endulzarlo a nuesto  (opcional). Una vez clarificado se envasa en botellas desinfectadas y de distinto tipo 
 					 dependiendo de si el hidromiel está estabilizado o no. Si no está estabilizado, puede en ciertos casos, como que no se haya alcanzado la gravedad esperada o que se le añada 
 					 un azúcar de cebado para gasificarla, que se reactive la fermentación y los gases producidos puede hacer que exploten las botellas a menos que  sea resitente y el tapón sea el adecuado.
-				
+					 <h2 className='text-xl font-semibold'>Ingredientes</h2>
+					 Los ingredientes del hidromiel básico son: agua, miel, nutrientes y levadura. 
                   <ul>
 					<li>
-						a
+						Agua
+						Se debe utilizar agua envasada pues el agua del grifo contiene cloro y cloraminas.
 					</li>
 					<li>
-						b
+						Miel 
+						Se debe de utilizar miel cruda, que es la que no está calentada por encima de los 40-45ºC pues la pasteurizada ha perdido ciertos aromas que ya no van 
+						a estar presentes en el hidromiel. Así que hay que abandonar técnicas que supongan un calentamiento excesivo de la miel en la que se busca a eliminación de levaduras
+						salvajes y una mejor clarificación final de la hidromiel. No se debe utilizar miel de más de dos años aunque puede estar líquida o cristalizada y que no haya empezado a 
+						fermentar.
+					</li>
+					<li>
+						Nutrientes
+					    Los nutrientes favorecen la obtención de un hidromiel de forma rápida con las características buscadas.
 					</li>
 				  </ul>
 
