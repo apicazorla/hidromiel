@@ -35,7 +35,9 @@ const Story = () => (
 					 Los ingredientes del hidromiel básico son: agua, miel, nutrientes y levadura. 
                   <ul>
 					<li>
-						<h4 className='text-xl font-semibold'> Agua </h4>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Agua
+					</span>{' '}
 					<br/>
 						Se debe utilizar agua envasada pues el agua del grifo contiene cloro y cloraminas.
 						
