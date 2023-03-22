@@ -22,7 +22,7 @@ const Story = () => (
 					 A la hora de hacer un determinado hidromiel hay que partir de una receta donde se muestre el procedimiento a seguir así como los ingredientes. La variedad 
 					 de hidromieles es bastante grande y atiende a los ingredientes utilizados (agua y miel principamente) en el que se incluye la levadura que puede limitar el grado alcohólico obtenido, la graduación 
 					 alcohólica deseada y el grado de dulzor, si es que lo queremos más o menos duce, o si lo queremos seco. Es importante también la desinfección de todo lo que esté en contacto con el mosto o la hidromiel. 
-					 Después de la mezcla de la miel  y el agua, y eventualmente otros productos (manzana, otro tipo de fruta, té, café, ciertas especias, etc. ) se le añade carbonato de potasio para que no cambie mucho el pH 
+					 Después de la mezcla de la miel  y el agua, y eventualmente otros productos (manzana, otro tipo de fruta, té, café, ciertas especias, etc.) se le añade carbonato de potasio para que no cambie mucho el pH 
 					 durante la fermentación. Se le añade después la levadura preparación, distinta según sea 
 					 una levadura sólida o líquida. La fermentación es mejor seguirla mediante la utilización de un hidrómetro o densímetro. Es muy importante la adición de nutrientes para 
 					 que el trabajo de las levaduras sea eficiente. La adición de nuitrientes puede ser de una sola vez o de forma escalonada (en el día cero, 2, y 4) dependiendo de la gravedad 
@@ -32,7 +32,17 @@ const Story = () => (
 					 dependiendo de si el hidromiel está estabilizado o no. Si no está estabilizado, puede en ciertos casos, como que no se haya alcanzado la gravedad esperada o que se le añada 
 					 un azúcar de cebado para gasificarla, que se reactive la fermentación y los gases producidos puede hacer que exploten las botellas a menos que  sea resitente y el tapón sea el adecuado.
 				
+                  <ul className='list-disc space-y-2 px-6 py-2'> 
+				  
+				  <li abc
+				    </li>
+					<li def
+					</li>
+		             </ul>
 
+
+				  
+                  
 				</p>
 
 				<br />
