@@ -101,15 +101,16 @@ const Story = () => (
                   <ul>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						Procedimiento pa las levaduras secas
+						Procedimiento para las levaduras secas
 					</span>{' '}
 					<br/>
 					<ul>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						a) Después de deinfectar todo y una vez determinada mediante la calculadora de nutrientes los gramos de levadura que necesita, multiplique
-						 por 1,25 esa cantidad para determinar los gramos de GoFerm que necesitará y esa cantidad por 25 para saber los mililitros de agua que necesita 
+						a) Después de desinfectar todo y una vez determinada mediante la calculadora de nutrientes los gramos de levadura que necesita, multiplique
+						 por 1,25 esa cantidad para determinar los gramos de GoFerm que necesita y por 25 para saber los mililitros de agua que necearia
 						 para la rehidratación.
+						 
 					</span>{' '}
 						
 					</li>
