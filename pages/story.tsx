@@ -106,7 +106,7 @@ const Story = () => (
 					<br/>
 					<ul>
 					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+					<span className='text-zinc-600 dark:text-zinc-400'>
 						Lavado y enguague
 					</span>{' '}
 					<br/>
@@ -114,7 +114,7 @@ const Story = () => (
 						
 					</li>
 					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+					<span className='text-zinc-600 dark:text-zinc-400'>
 						Enguague con el desinfectante
 						</span>{' '}	
                          <br/>
@@ -132,7 +132,7 @@ const Story = () => (
                          <br/>
 						 <ul>
 					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+					<span className='text-zinc-600 dark:text-zinc-400'>
 						Lavado y enguague
 					</span>{' '}
 					<br/>
@@ -140,7 +140,7 @@ const Story = () => (
 						
 					</li>
 					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+					<span className='text-zinc-600 dark:text-zinc-400'>
 						Enguague con el desinfectante
 						</span>{' '}	
                          <br/>
