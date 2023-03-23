@@ -43,7 +43,7 @@ const Appbar = () => {
 							className='h-10 w-10 rounded-full bg-zinc-200 bg-cover bg-center shadow-inner dark:bg-zinc-800'
 							style={{
 								backgroundImage:
-									'url(https://drive.google.com/uc?export=wiew&amp;id=1lytPGYyPyFHQXY1Gdr9kTbTld00jurpS)',
+									href=''hidromiel_01.jpg'',
 							}}
 						/>
 					</nav>
