@@ -96,7 +96,52 @@ const Story = () => (
 					
 				  </ul>
 				  
-                  
+                  <h2 className='text-xl font-semibold'>Cómo añadir las levaduras</h2>
+					 Es muy importante cómo se añadan las levaduras al mosto. El procedimiento depende de si la levadura es seca o líquida. 
+                  <ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Procedimiento pa las levaduras secas
+					</span>{' '}
+					<br/>
+						Las levaduras secas están inactivas. Para activarlas correctamente hay que hidratarlas antes de añadirla al mosto. Se trata de añadirle un nutriente para 
+						que el proceso de rehidratación sea más provechoso.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Procedimiento para las levaduras líquidas
+						</span>{' '}	
+                         <br/>
+						Se debe de utilizar miel cruda, que es la que no está calentada por encima de los 40-45ºC pues la pasteurizada ha perdido ciertos aromas que ya no van 
+						a estar presentes en el hidromiel. Así que hay que abandonar técnicas que supongan un calentamiento excesivo de la miel en la que se busca a eliminación de levaduras
+						salvajes y una mejor clarificación final de la hidromiel. No se debe utilizar miel de más de dos años aunque puede estar líquida o cristalizada y que no haya empezado a 
+						fermentar.
+					</li>
+					  
+					<ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						a) Desinfecte todo
+					</span>{' '}
+					<br/>
+						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Calcule la masa en gramos de levadura que activará.
+						</span>{' '}	
+                         <br/>
+						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
+						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
+					</li>
+					
+				  </ul>
+
+				  </ul>
+
+
 				</p>
 
 				<br />
