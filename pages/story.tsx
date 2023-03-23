@@ -104,24 +104,10 @@ const Story = () => (
 						Procedimiento pa las levaduras secas
 					</span>{' '}
 					<br/>
-					<ul>
-					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						a) Desinfecte todo.
-					</span>{' '}
+						Las levaduras secas están inactivas. Para activarlas correctamente hay que hidratarlas antes de añadirla al mosto. Se trata de añadirle un nutriente para 
+						que el proceso de rehidratación sea más provechoso.
+						
 					</li>
-					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						b) Deje que el paquete de levadura alcance la temperatura ambiente.
-						</span>{' '}	
-					</li>
-					<li>
-					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						c) Siga las instrucciones del fabricante para la levadura e concreto. Eche la levadura en el mosto de manera que no haya una diferencia de temperatura 
-						de más de 6ºC entre la levadura y el mosto.
-					</span>{' '}
-					</li>
-				  </ul>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
 						Procedimiento para las levaduras líquidas
@@ -143,7 +129,7 @@ const Story = () => (
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
 						c) Siga las instrucciones del fabricante para la levadura e concreto. Eche la levadura en el mosto de manera que no haya una diferencia de temperatura 
-						de más de 6ºC entre la levadura y el mosto.
+						de más de 6ºC entre la levadura y
 					</span>{' '}
 					</li>
 				  </ul>
