@@ -104,7 +104,25 @@ const Story = () => (
 						Procedimiento pa las levaduras secas
 					</span>{' '}
 					<br/>
-						o
+					<ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Lavado y enguague
+					</span>{' '}
+					<br/>
+						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Enguague con el desinfectante
+						</span>{' '}	
+                         <br/>
+						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
+						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
+					</li>
+					
+				  </ul>
 						
 					</li>
 					<li>
@@ -112,7 +130,25 @@ const Story = () => (
 						Procedimiento para las levaduras líquidas
 						</span>{' '}	
                          <br/>
-					o
+						 <ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Lavado y enguague
+					</span>{' '}
+					<br/>
+						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Enguague con el desinfectante
+						</span>{' '}	
+                         <br/>
+						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
+						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
+					</li>
+					
+				  </ul>
 					</li>
 					  
 					
