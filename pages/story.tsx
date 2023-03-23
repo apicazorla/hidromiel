@@ -104,39 +104,48 @@ const Story = () => (
 						Procedimiento pa las levaduras secas
 					</span>{' '}
 					<br/>
-						Las levaduras secas están inactivas. Para activarlas correctamente hay que hidratarlas antes de añadirla al mosto. Se trata de añadirle un nutriente para 
-						que el proceso de rehidratación sea más provechoso.
-						
+					<ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						a) Desinfecte todo.
+					</span>{' '}
 					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						b) Deje que el paquete de levadura alcance la temperatura ambiente.
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						c) Siga las instrucciones del fabricante para la levadura e concreto. Eche la levadura en el mosto de manera que no haya una diferencia de temperatura 
+						de más de 6ºC entre la levadura y el mosto.
+					</span>{' '}
+					</li>
+				  </ul>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
 						Procedimiento para las levaduras líquidas
 						</span>{' '}	
                          <br/>
-						Se debe de utilizar miel cruda, que es la que no está calentada por encima de los 40-45ºC pues la pasteurizada ha perdido ciertos aromas que ya no van 
-						a estar presentes en el hidromiel. Así que hay que abandonar técnicas que supongan un calentamiento excesivo de la miel en la que se busca a eliminación de levaduras
-						salvajes y una mejor clarificación final de la hidromiel. No se debe utilizar miel de más de dos años aunque puede estar líquida o cristalizada y que no haya empezado a 
-						fermentar.
 					</li>
 					  
 					<ul>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						a) Desinfecte todo
+						a) Desinfecte todo.
 					</span>{' '}
-					<br/>
-						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
-						
 					</li>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						Calcule la masa en gramos de levadura que activará.
+						b) Deje que el paquete de levadura alcance la temperatura ambiente.
 						</span>{' '}	
-                         <br/>
-						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
-						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
 					</li>
-					
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						c) Siga las instrucciones del fabricante para la levadura e concreto. Eche la levadura en el mosto de manera que no haya una diferencia de temperatura 
+						de más de 6ºC entre la levadura y el mosto.
+					</span>{' '}
+					</li>
 				  </ul>
 
 				  </ul>
