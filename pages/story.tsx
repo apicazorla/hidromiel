@@ -113,9 +113,7 @@ const Story = () => (
 
 					</span>{' '}
 					<br/>
-					$(document).ready(function(){
-    $('#wrap').after("<div align='center'>g de levadura x 1,25 (= g de GoFerm)x 25 = mL de agua necesaria</div>");
-}); 
+					<div align='center'>g de levadura x 1,25 (= g de GoFerm)x 25 = mL de agua necesaria</div> 
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
