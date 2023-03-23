@@ -107,21 +107,23 @@ const Story = () => (
 					<ul>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						Lavado y enguague
+						a) Después de deinfectar todo y una vez determinada mediante la calculadora de nutrientes los gramos de levadura que necesita, multiplique
+						 por 1,25 esa cantidad para determinar los gramos de GoFerm que necesitará y esa cantidad por 25 para saber los mililitros de agua que necesita 
+						 para la rehidratación.
 					</span>{' '}
-					<br/>
-						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
 						
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						Enguague con el desinfectante
+						b) Añada el GoFerm a agua que eté a una temperatura de 38-39ºC. Agite hasta que esté disuelto y espolveré la levadura sobre el agua y deje reposar 5 min.
 						</span>{' '}	
-                         <br/>
-						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
-						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
 					</li>
-					
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						c) Mezcle ahora la levadura con la solución, enfríe, y cuando la diferencia  temperatura de la levadura y el mosto no sea mayor de 6ºC, añada la solución de la 
+						levadura al mosto.
+						</span>{' '}	
+					</li>
 				  </ul>
 						
 					</li>
@@ -133,19 +135,16 @@ const Story = () => (
 						 <ul>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						Lavado y enguague
-					</span>{' '}
-					<br/>
-						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						a) Después de desinfectar todo, deje que el paquete de levadura alcance la temperatura ambiente. Siga las instrucciones del fabricante (en el caso de la levadura
+						Wyeast, la levadura se activa rompiendo el paquete interno y espere unos 10-15 min a que se hinche).
+					</span>{' '} 
 						
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						Enguague con el desinfectante
+						b) Eche la levadura en el mosto de manera que no haya una diferencia de más de 6ºC entre la levadura y el mosto.
 						</span>{' '}	
-                         <br/>
-						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
-						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
+                         
 					</li>
 					
 				  </ul>
