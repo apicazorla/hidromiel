@@ -113,9 +113,9 @@ const Story = () => (
 
 					</span>{' '}
 					<br/>
-						<center>
+						<div class="jsCenterOnPhrase"> 
 						g de levadura x 1,25 (= g de GoFerm)x 25 = mL de agua necesaria 
-						</center>
+						</div> 
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
