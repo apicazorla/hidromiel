@@ -112,8 +112,10 @@ const Story = () => (
 						 para la rehidratación.
 
 					</span>{' '}
+					<br/>
 						<div class="jsCenterOnPhrase"> 
-						g de levadura x 1,25 (= g de GoFerm)x 25 = mL de agua necesaria </div> T
+						g de levadura x 1,25 (= g de GoFerm)x 25 = mL de agua necesaria 
+						</div> T
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
