@@ -108,8 +108,8 @@ const Story = () => (
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
 						a) Después de desinfectar todo y una vez determinada mediante la calculadora de nutrientes los gramos de levadura que necesita, multiplique
-						 por 1,25 esa cantidad para determinar los gramos de GoFerm que necesita y por 25 para saber los mililitros de agua que necearia
-						 para la rehidratación.
+						 por 1,25 esa cantidad para determinar los gramos de GoFerm que necesita y por 25 para saber los mililitros de agua 
+						 para la rehidratación:
 
 					</span>{' '}
 					<br/>
@@ -117,12 +117,12 @@ const Story = () => (
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						b) Añada el GoFerm a agua que eté a una temperatura de 38-39ºC. Agite hasta que esté disuelto y espolveré la levadura sobre el agua y deje reposar 5 min.
+						b) Añada el GoFerm a agua que esté a una temperatura de 38-39ºC. Agite hasta que esté disuelto y espolveré la levadura sobre el agua y deje reposar 5 min.
 						</span>{' '}	
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						c) Mezcle ahora la levadura con la solución, enfríe, y cuando la diferencia  temperatura de la levadura y el mosto no sea mayor de 6ºC, añada la solución de la 
+						c) Mezcle ahora la levadura con la solución, enfríe, y cuando la diferencia  temperatura entre la levadura y el mosto no sea mayor de 6ºC, añada la solución de la 
 						levadura al mosto.
 						</span>{' '}	
 					</li>
