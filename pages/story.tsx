@@ -177,9 +177,7 @@ const Story = () => (
                          <br/>
 						Nos sirve más bien para ver la evolución de la fermentación y cuándo termina, por el valor constante de la gravedad. Tiene la ventaja de que sólo  se 
 						necesita una gota para medir la gravedad pero tiene el inconveniente de que el valor de la gravedad se ve influenciado cuando empieza a producirse alcohol. Para ello, 
-						existen calculadoras que corrigen la presencia de alcohol como la que se muestra a continuación.
-						<br/>
-						<p class="text-center">So I started to walk into the water...</p>
+						existen calculadoras que corrigen la presencia de alcohol como la que se muestra a continuación:
 						<div>
 				<a href="calculadora_refractometro.xlsx" className= 'underline'download>Clic para Descarga de hoja excel!</a>
 </div>
