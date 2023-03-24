@@ -156,9 +156,7 @@ const Story = () => (
 
 				  </ul>
 
-				  <button class="bg-indigo-500 ...">
-  Save changes
-</button>
+				  <button class="bg-cyan-500 hover:bg-cyan-600 ...">Subscribe</button>
 				</p>
 
 				<br />
