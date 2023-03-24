@@ -90,6 +90,8 @@ const Story = () => (
 						Enguague con el desinfectante
 						</span>{' '}	
                          <br/>
+						 <button class="bg-cyan-500 hover:bg-cyan-600 ...">Subscribe</button>
+						 <br/>
 						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
 						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
 					</li>
@@ -156,7 +158,7 @@ const Story = () => (
 
 				  </ul>
 
-				  <button class="bg-cyan-500 hover:bg-cyan-600 ...">Subscribe</button>
+				 
 				</p>
 
 				<br />
