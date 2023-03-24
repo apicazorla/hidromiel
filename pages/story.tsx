@@ -165,7 +165,7 @@ const Story = () => (
 						Hidrómetro
 					</span>{' '}
 					<br/>
-						Nos sirve para determinar en todo momento la gravedad del líquido y cuándo ha terminado la fermentación porque en una o dos semanas no haya variado la gravedad. 
+						Nos sirve para determinar en todo momento la gravedad del líquido y cuándo ha terminado la hidromiel, que puede ser o bien porque la gravedad es inferior a 1000 o  porque en una o dos semanas no haya variado la gravedad. 
 						Vertemos el líquido en una probeta y dejamos caer el hidrómetro haciéndolo girar. Cuando se estabilize leemos dónde está la límea del menisco sobre la escala 
 						graduada del hidrómetro.
 						
