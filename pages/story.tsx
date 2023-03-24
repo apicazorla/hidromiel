@@ -158,26 +158,28 @@ const Story = () => (
 
 				 
 				  <h2 className='text-xl font-semibold'>Hidrómetros y refractómetros</h2>
-					 Es muy importante que todo lo que esté en contacto con el mosto o el hidromiel esté libre de bacterias, levaduras, etc. ajenas al proceso de fermentación. Por 
-					 ello se debe desinfectarse. 
+					La única manera de asegurarse de que el proceso de fermentación es el correcto, más que la presencia o no de burbujeo, es la variación de la gravedad.
                   <ul>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						Lavado y enguague
+						Hidrómetro
 					</span>{' '}
 					<br/>
-						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						Vertemos el líquido en una probeta y dejamos caer el hidrómetro haciéndolo girar. Cuando se estabilize leemos dónde está la límea del menisco sobre la escala 
+						graduada del hidrómetro.
 						
 					</li>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						Enguague con el desinfectante
+						Refractómetro
 						</span>{' '}	
                          <br/>
-						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
-						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
-					</li>
-					
+						Nos sirve más bien para ver la evolución de la fermentación y cuándo termina, por el valor constante de la gravedad. Tiene la ventaja de que sólo  se 
+						necesita una gota para medir la gravedad pero tiene el inconveniente de que el valor de la gravedad se ve influenciado cuando empieza a producirse alcohol. Para ello, 
+						existen calculadoras que corrigen la presencia de alcohol.
+						
+						
+			
 				  </ul>
 
 
