@@ -90,8 +90,6 @@ const Story = () => (
 						Enguague con el desinfectante
 						</span>{' '}	
                          <br/>
-						 <button class="bg-cyan-500 hover:bg-cyan-600 ...">Subscribe</button>
-						 <br/>
 						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
 						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
 					</li>
@@ -159,6 +157,30 @@ const Story = () => (
 				  </ul>
 
 				 
+				  <h2 className='text-xl font-semibold'>Hidrómetros y refractómetros</h2>
+					 Es muy importante que todo lo que esté en contacto con el mosto o el hidromiel esté libre de bacterias, levaduras, etc. ajenas al proceso de fermentación. Por 
+					 ello se debe desinfectarse. 
+                  <ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Lavado y enguague
+					</span>{' '}
+					<br/>
+						Ulitizamos detergente para limpiar objetos y recipientes y posteriormente enguagamos.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Enguague con el desinfectante
+						</span>{' '}	
+                         <br/>
+						Es importante que después de lavar los objetos y recipientes estén en contacto con una disolución de desinfectate que no requiere enguague. Ejemplo de 
+						desinfectante es Chemipro en polvo. La solución desinfectante se obtiene añadiendo 4 g de Chemipro por litro de agua.
+					</li>
+					
+				  </ul>
+
+
 				</p>
 
 				<br />
