@@ -179,7 +179,7 @@ const Story = () => (
 						necesita una gota para medir la gravedad pero tiene el inconveniente de que el valor de la gravedad se ve influenciado cuando empieza a producirse alcohol. Para ello, 
 						existen calculadoras que corrigen la presencia de alcohol.	
 						<div>
-				<a href="calculadora_refractometro.xlsx" className= 'underline'download>Clic para Descarga de pdf!</a>
+				<a href="calculadora_refractometro.xlsx" className= 'underline'download>Clic para Descarga de hoja excel!</a>
 </div>
 			</li>
 				  </ul>
