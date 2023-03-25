@@ -185,6 +185,47 @@ const Story = () => (
 				  </ul>
 
 
+				  <h2 className='text-xl font-semibold'>Cómo estabilizar el hidromiel</h2>. 
+					<ul>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						a) Confirme que la fermentación está acabada asegurándose que la gravedad permece estable durante al menos una semana, mejor dos.
+
+					</span>{' '}
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						b) Opcional: Choque en frío ( de 1ºC a 1ºC de termperatura durante una semana) para acelerar la claridicación. Se no se aclara pro frío, deja que se aclare 
+						naturalmente. 
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						c) Después trasvase el líquido a un recipiente dejando atrás el fondo con los restos de la levaduras (lías).
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						d) En el nuevo recipiente estabilice con metabisulfito de potasio a razón de 0,09 g/L  y 0,20 g/L de sorbato de sorbato de potasio.
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						e) A la 24 horas  es el momento de agregar miel hasta la dulzura deseada. Si la gravedad final ha sido 1000 y y quieres hidromiel seco, no haga nada;
+						si se desea hidromiel semiseco (1005), añada 56 g de miel; si se desea hidromiel semidulce (1010), añada 112 g de miel; y, por último, si desea hidromiel dulce (1020), 
+						añada 227 g de miel. Se debe esperar a que se clarifique nuevamente para embotellar.
+
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						f) Confirme que la gravedad permanece estable durante unas semanas y embote lle la miel ya clarificada.
+						</span>{' '}	
+					</li>
+				  </ul>
+ 
+
+
 				</p>
 
 				<br />
