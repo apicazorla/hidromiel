@@ -186,8 +186,8 @@ const Story = () => (
 
 
 				  <h2 className='text-xl font-semibold'>Cómo estabilizar el hidromiel</h2>. 
-				  </span>{' '}	
-                         <br/>
+				  Es muy importante estabilizar el hidromiel para prevenir fermentaciones no deseadas, evitar la oxigenación que puede producir sabores desagradables y evitar 
+				  las bombas de botellas, ya que al parar la fermentación no se sigue produciendo dióxido de carbono.
 					<ul>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
