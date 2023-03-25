@@ -186,6 +186,8 @@ const Story = () => (
 
 
 				  <h2 className='text-xl font-semibold'>Cómo estabilizar el hidromiel</h2>. 
+				  </span>{' '}	
+                         <br/>
 					<ul>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
@@ -195,7 +197,7 @@ const Story = () => (
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						b) Opcional: Choque en frío ( de 1ºC a 1ºC de termperatura durante una semana) para acelerar la claridicación. Se no se aclara pro frío, deja que se aclare 
+						b) Opcional: Choque en frío ( de 1ºC a 2ºC de termperatura durante una semana) para acelerar la claridicación. Se no se aclara pro frío, deja que se aclare 
 						naturalmente. 
 						</span>{' '}	
 					</li>
