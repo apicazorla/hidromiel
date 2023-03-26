@@ -3,6 +3,11 @@ import Section from '@/components/section'
 
 const Recipes = () => (
 	<Page>
+
+<Section>
+			<h3 className='text-xl font-semibold'>Recetas</h3>
+		</Section>
+
 		<Section>
 			<h3 className='text-xl font-semibold'>Hidromiel de manzana</h3>
 
