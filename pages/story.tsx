@@ -227,12 +227,14 @@ const Story = () => (
 				  </ul>
  
 				  <span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						¿Cómo hacer una disolución estabilizadora rápidamente? Para 25 L de hidromiel:
+						¿Cómo hacer una disolución estabilizadora para operar más cómodamente? 
 						</span>{' '}	
 						<br/>
 						Es muy importante tener a mano esta disolución estabilizadora porque al ser la cantidades necesarias de metabisulfito y sorbato tan pequeñas y al  
 						utilizar normalmente  balanzas que aprecian la décima de gramo,  impide pesar cantidades pequeñas de estos productos cuando se quiere estabilizar un 
 						volumen pequeño, como por ejemplo 5 L o 10 L.
+						<br/>
+						Para 25 L de hidromiel:
 						<ul>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
