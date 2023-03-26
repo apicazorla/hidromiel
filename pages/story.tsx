@@ -230,8 +230,8 @@ const Story = () => (
 						¿Cómo hacer una disolución estabilizadora para operar más cómodamente? 
 						</span>{' '}	
 						<br/>
-						Es muy importante tener a mano esta disolución estabilizadora porque al ser la cantidades necesarias de metabisulfito y sorbato tan pequeñas y al  
-						utilizar normalmente  balanzas que aprecian la décima de gramo,  impide pesar cantidades pequeñas de estos productos cuando se quiere estabilizar un 
+						Es muy importante tener a mano esta disolución estabilizadora porque al ser las cantidades necesarias de metabisulfito y sorbato tan pequeñas y al  
+						utilizar normalmente  balanzas que aprecian sólo la décima de gramo,  impide pesar cantidades pequeñas de estos productos cuando se quiere estabilizar un 
 						volumen pequeño, como por ejemplo 5 L o 10 L.
 						<br/>
 						Para 25 L de hidromiel:
