@@ -250,6 +250,9 @@ const Story = () => (
 					<span className='text-zinc-600 dark:text-zinc-400'>
 						c) Agregue 1 mL de esta mezcla por cada litro de mosto que quiera estabilizar.
 						</span>{' '}	
+					<br/> 
+					Se pueden preparar disoluciones estabilizadoras de más volumen manteniendo la proporción. Es decir, si quisiéramos preparar una disolución estabilizadora 
+					para 100 L de hidromiel añadiríamos 2,2x4=8,8 g de metabiluslfito y 5X4=20 g de sorbato de potasio a 100 mL de agua destilada.
 					</li>
                   </ul>
 				</p>
