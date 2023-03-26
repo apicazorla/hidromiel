@@ -185,7 +185,7 @@ const Story = () => (
 				  </ul>
 
 
-				  <h2 className='text-xl font-semibold'>Cómo estabilizar el hidromiel</h2>. 
+				  <h2 className='text-xl font-semibold'>Cómo estabilizar el hidromiel</h2> 
 				  Es muy importante estabilizar el hidromiel para prevenir fermentaciones no deseadas, evitar la oxigenación que puede producir sabores desagradables y evitar 
 				  las bombas de botellas, ya que al parar la fermentación no se sigue produciendo dióxido de carbono.
 					<ul>
@@ -226,8 +226,29 @@ const Story = () => (
 					</li>
 				  </ul>
  
-
-
+				  <span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						¿Cómo hacer una disolución estabilizadora rápidamente? Para 25 L de hidromiel:
+						</span>{' '}	
+						Es muy importante tener a mano esta disolución estabilizadora porque al ser la cantidades necesarias de metabisulfito y sorbato tan pequeñas y al  
+						utilizar normalmente  balanzas que aprecian la décima de gramo,  impide pesar cantidades pequeñas de estos productos cuando se quiere estabilizar un 
+						volumen pequeño, como por ejemplo 5 L o 10 L.
+						<ul>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						a) Tome 2,2 g de metabisulfito y 5 g de sorbato y añádalo a 25 mL de agua destilada.
+					</span>{' '}
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						b) Agite la mezcla hasta que se disuelvan los solutos. 
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						c) Agregue 1 mL de esta mezcla por cada litro de mosto que quiera estabilizar.
+						</span>{' '}	
+					</li>
+                  </ul>
 				</p>
 
 				<br />
