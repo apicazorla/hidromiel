@@ -197,7 +197,7 @@ const Story = () => (
 					</li>
 					<li>
 					<span className='text-zinc-600 dark:text-zinc-400'>
-						b) Opcional: Choque en frío ( de 1ºC a 2ºC de termperatura durante una semana) para acelerar la claridicación. Se no se aclara pro frío, deja que se aclare 
+						b) Opcional: Choque frío ( de 1ºC a 2ºC de termperatura durante una semana) para acelerar la claridicación. Se no se aclara pro frío, deja que se aclare 
 						naturalmente. 
 						</span>{' '}	
 					</li>
@@ -255,6 +255,32 @@ const Story = () => (
 					para 100 L de hidromiel añadiríamos 2,2x4=8,8 g de metabiluslfito y 5X4=20 g de sorbato de potasio a 100 mL de agua destilada.
 					</li>
                   </ul>
+				  <h2 className='text-xl font-semibold'>Cómo hacer el choque frío</h2> 
+				  El choque frío consite en someter la hidromiel a temperaturas próximas a la temperatura de congelación del agua para que las levaduras precipiten y el 
+				  hidromiel se clarifique.
+				  <br/>
+				  Pasos a dar:
+				  <br/>
+					<ul>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						a) Confirme que la fermentación está acabada asegurándose que la gravedad permece estable durante al menos una semana, mejor dos.
+
+					</span>{' '}
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						b) Coloque el recipiente con el hidromiel en un refrigerador hasta que se aclare. El proceso puede durar de 24 h a 4 semanas.
+						</span>{' '}	
+					</li>
+					<li>
+					<span className='text-zinc-600 dark:text-zinc-400'>
+						c) Una vez clarificado el hidromiel, estabilícelo (añádale miel si lo quiere semiculce o dulce) y páselo a una garrafa secundaria o embotéllelo.
+						</span>{' '}	
+					</li>
+
+				  </ul>
+
 				</p>
 
 				<br />
