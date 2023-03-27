@@ -281,6 +281,39 @@ const Story = () => (
 
 				  </ul>
 
+				  <h2 className='text-xl font-semibold'>Hidromiel embotellado</h2>
+                  <ul>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						La botella adecuada para el hidromiel
+					</span>{' '}
+					<br/>
+						Después de que su hidromiel esté seco o estabilizado y nuevamente endulzado al gusto, permita que el hidromiel se clarifique. Una vez clarificado, 
+						puede embotellar el hidromiel. Las botellas pueden ser transparentes pero si contienen lúpulo o hierbas, mejor que sean marrones.
+						<br/> 
+						El tipo de botellas a utilizar depende de que el hidromiel esté carbonatado/no estabilizado o esté carbonatado/estabilizado.
+						En los hidromieles no carbonatados (caso del hidromiel seco) o estabilizados se puede utilizar cualquier tipo de botella porque no se forma dióxido de carbono y no hay posibilidad 
+						de que aumente la presión que provoque que explote la botella mientras que en los hidromieles carbonatados y no estabilizados se forma dióxido de carbono que puede provocar que wxplote la botella. En 
+						estos casos utilizaremos botellas resistente (de las de champán o sidra) con tapones oscilantes o con corchos enjaulados.
+						<br/>
+						Hay que tener cuidado con los hidromieles estancados, que nunca se deben embotellar si no están estabilizados.
+						
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Proceso de embotellado
+						</span>{' '}	
+                         <br/>
+						A la hora de embotellar...
+					</li>
+					<li>
+					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
+						Tapas, corchos y tapas oscilantes
+						</span>{' '}	
+                         <br/>
+						algunos consejos rápidos...
+					</li>
+                 </ul>
 				</p>
 
 				<br />
