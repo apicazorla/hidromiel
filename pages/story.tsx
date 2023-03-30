@@ -317,7 +317,6 @@ const Story = () => (
 					</li>
                  </ul>
 				 <h2 className='text-xl font-semibold'>Almacenamiento</h2>
-
 <div className='mt-2'>
 	<p className='text-zinc-600 dark:text-zinc-400'>
 		El hidromiel debe almacenarse en sitios oscuros, preferiblemente en lugares frescos. Si no está estabilizado debe protegerse de la oxigenación, no dejando mucho aire 
