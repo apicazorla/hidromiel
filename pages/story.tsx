@@ -316,12 +316,6 @@ const Story = () => (
 						en botellas resistentes para hidromieles no estabilizados o carbonatados.
 					</li>
                  </ul>
-				 <h2 className='text-xl font-semibold'>Almacenamiento</h2>
-<div className='mt-2'>
-	<p className='text-zinc-600 dark:text-zinc-400'>
-		El hidromiel debe almacenarse en sitios oscuros, preferiblemente en lugares frescos. Si no está estabilizado debe protegerse de la oxigenación, no dejando mucho aire 
-		en el cuello de la botella. Un periodo de almacenamiento de 6 meses puede mejorar el sabor del hidromiel obtenido. Recientemente embotellado los sabores están silenciados. Si además 
-		hemos añadido sulfitos, estos puede darle cierto sabor característico que no tarda mucho en desaparecer.
 				</p>
 
 				<br />
