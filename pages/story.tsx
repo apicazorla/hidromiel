@@ -304,16 +304,25 @@ const Story = () => (
 						Proceso de embotellado
 						</span>{' '}	
                          <br/>
-						A la hora de embotellar...
+						Una vez que el hidromiel está clarificado podemos pasarlo con un sifón para prevenir su oxigenación a un recipiente que contiene un grifo para ir llenando 
+						las botellas (si el hidromiel está estabilizado protege de la fermentación). 
 					</li>
 					<li>
 					<span className='font-medium text-zinc-900 dark:text-zinc-50'>
-						Tapas, corchos y tapas oscilantes
+						Tapas de corona, corchos y tapas socilantes
 						</span>{' '}	
                          <br/>
-						algunos consejos rápidos...
+						Utilizaremos tapas de corona y corchos normales para hidromieles secos y estabilizados; corchos tipo para champán o sidra con jaula metálica o tapas abatibles
+						en botellas resistentes para hidromieles no estabilizados o carbonatados.
 					</li>
                  </ul>
+				 <h2 className='text-xl font-semibold'>Almacenamiento</h2>
+
+<div className='mt-2'>
+	<p className='text-zinc-600 dark:text-zinc-400'>
+		El hidromiel debe almacenarse en sitios oscuros, preferiblemente en lugares frescos. Si no está estabilizado debe protegerse de la oxigenación, no dejando mucho aire 
+		en el cuello de la botella. Un periodo de almacenamiento de 6 meses puede mejorar el sabor del hidromiel obtenido. Recientemente embotellado los sabores están silenciados. Si además 
+		hemos añadido sulfitos, estos puede darle cierto sabor característico que no tarda mucho en desaparecer.
 				</p>
 
 				<br />
