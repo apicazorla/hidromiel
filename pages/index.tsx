@@ -1,7 +1,5 @@
 import Page from '@/components/page'
 import Section from '@/components/section'
-<script src="https://www.gstatic.com/firebasejs/ui/6.0.2/firebase-ui-auth.js"></script>
-<link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.2/firebase-ui-auth.css" />
 const Index = () => (
 	<Page>
 		<Section>
