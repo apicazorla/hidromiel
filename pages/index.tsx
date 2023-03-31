@@ -33,3 +33,26 @@ const Index = () => (
 )
 
 export default Index
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.19.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.19.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyAsrK-SGqmZ9dOFWEXyS9e5V1YeWuPHy9k",
+    authDomain: "miel-para-regalo.firebaseapp.com",
+    projectId: "miel-para-regalo",
+    storageBucket: "miel-para-regalo.appspot.com",
+    messagingSenderId: "406612881797",
+    appId: "1:406612881797:web:e83f602168381c122e54ec",
+    measurementId: "G-H2M3L930KB"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
